@@ -5,6 +5,8 @@ Author:  Erin James Wills, ejw.data@gmail.com  - 8/24/2019
 ![Kickstarter Campaign Analysis ](./images/kickstarter.png)
 <cite>Photo by [micheile dot com](https://unsplash.com/@micheile?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/money?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</cite>
 
+<br>
+
 ## Overview  
 <hr>
 Using a sample dataset from 2017, a quick analysis was performed in Excel.  Part of the analysis was to format and modify the sheet to indicate which campaigns were successful.  The dataset was only a small sampling with less than 4,200 rows but the breadth of the data accomodated a variety of analyses using Pivot Charts and Pivot Tables. 
@@ -12,11 +14,16 @@ Using a sample dataset from 2017, a quick analysis was performed in Excel.  Part
 <br>
 
 ## Methods
-*  Binning, Aggregating, Ranking, Trending  
+*  Binning
+*  Aggregating
+*  Ranking
+*  Trending  
+
 <br>
 
 ## Technologies  
 *  Excel: Pivot Tables, Pivot Charts
+
 <br>
 
 ## Data Source
